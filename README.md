@@ -37,6 +37,12 @@ from each item’s purchase/rental, and finally the
 rating given to the item by the user on a scale of
 1-10.
 
+## Models Comparison
+- Jaccard Similarity\
+- Bag of Words (Cosine)\
+- TF-IDF (Cosine)\
+- Item2Vec
+
 ### Collaborators
 Shunsuke Iwata\
 Mao-Ho Wang\
